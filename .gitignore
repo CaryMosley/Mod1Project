@@ -9,6 +9,7 @@ __pycache__/
 *.log
 *.sql
 *.sqlite
+.csv
 
 # OS generated files
 .DS_Store
