@@ -41,4 +41,7 @@ This next chart is a supplement to the Top Box Office Grossing Movie by Genres g
 
 <img src="https://github.com/CaryMosley/Mod1Project/blob/master/GenreYear.png">
 
-Throughout this project we have accomplished a few things. We pulled data via webscraping and an API pull. Next we cleaned and merged this data. Finally we analyzed whether the movie industry was profitable and then looked at some factors that could influence profitability. We found that director and star choice as well as genre could have a large impact on movie revenue.
+Throughout this project we have accomplished a few things. We pulled data via webscraping and an API pull. Next we cleaned and merged this data. Finally we analyzed whether the movie industry was profitable and then looked at some factors that could influence profitability. We found that director and star choice as well as genre could have a large impact on movie revenue. Finally we bucketd the budget and looked at ROI by budget finding that films in the 10-20MM budget had the highest ROI
+
+<img src="https://github.com/CaryMosley/Mod1Project/blob/master/Buckets.png">
+
